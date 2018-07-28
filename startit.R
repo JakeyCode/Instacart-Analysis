@@ -36,3 +36,5 @@ str(get(ls()[1:length(ls())]))
 # assign(dataName,read.csv(FileList))
 # Is this needed?
 # InstaData <- lapply(FileList, read.csv)
+
+# testing
